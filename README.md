@@ -43,4 +43,5 @@
 ## 2.어캐 공부할거냐
 * [리액트 네이티브 공식 튜토리얼](https://reactnative.dev/docs/tutorial)  
 * [위에꺼 번역본](https://g6ling.gitbooks.io/react-native-tutorial-korean/content/)(좀 오래된거라 잘 안볼수도)  
-* Chat GPT (요새 AI로 공부하는게 대세라길래)
+* Chat GPT (요새 AI로 공부하는게 대세라길래)  
+* [리액트 클론코딩 관련](https://devsign.tistory.com/38)
