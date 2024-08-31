@@ -44,4 +44,14 @@
 * [리액트 네이티브 공식 튜토리얼](https://reactnative.dev/docs/tutorial)  
 * [위에꺼 번역본](https://g6ling.gitbooks.io/react-native-tutorial-korean/content/)(좀 오래된거라 잘 안볼수도)  
 * Chat GPT (요새 AI로 공부하는게 대세라길래)  
+
 * [리액트 클론코딩 관련](https://devsign.tistory.com/38)
+
+
+## 3.진행사항 공유
+![IMG_3251](https://github.com/user-attachments/assets/a3eb0d3b-1462-4897-aa0b-d7168d928440)  
+9월 1일  
+코멘트:  
+학교랑 학원 그리고 곧 있을 모의고사에 걸려 시간을 어떻게든 짬을 내서 하고있다..  
+일단 모의고사는 망한거 같고 내가 지금 하는 행위가 의미가 있었으면 좋겠다..  
+
