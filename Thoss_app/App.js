@@ -1,8 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
-import { createStackNavigator } from "@react-navigation/stack";
-import MainScreen from './components/MainScreen';
+import { createStackNavigator, Header } from "@react-navigation/stack";
+import MainScreen from './screen/MainScreen';
 
 
 
@@ -16,9 +16,10 @@ const Stack = createStackNavigator(
 export default function App() {
   return(
 
-    <NavigationContainer>
+    <NavigationContainer >
+      
       <Stack.Navigator initialRouteName='Home'>
-        <Stack.Screen name="Home" component={MainScreen} />
+        <Stack.Screen name="Home" component={MainScreen} options={{headerShown:false}}/>
       </Stack.Navigator>
     </NavigationContainer>
 

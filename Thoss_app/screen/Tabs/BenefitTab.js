@@ -5,7 +5,7 @@ export default class BenefitTab extends Component {
     render() {
         return (
             <View style={style.container}>
-                <Text>BenefitTab</Text>
+                <Text>이우린 천재</Text>
             </View>
         );
     }
