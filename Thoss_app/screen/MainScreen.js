@@ -60,7 +60,7 @@ export default function MainScreen(Component) {
             })}>
 
         
-        <Tab.Screen name="Main" component={BenefitTab}/>
+        <Tab.Screen name="Main" component={MainTab}/>
         <Tab.Screen name="Benefit" component={BenefitTab} />
         <Tab.Screen name="Pay" component={PayTab} />
         <Tab.Screen name="Stock" component={StockTab} />
