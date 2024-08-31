@@ -56,10 +56,11 @@ export default function MainScreen(Component) {
             tabBarLabel: route.name, // 라벨은 route.name으로 설정
             tabBarActiveTintColor: '#e91e63', // 활성화된 탭의 텍스트 색상
             tabBarInactiveTintColor: 'gray',  // 비활성화된 탭의 텍스트 색상
+            headerShown: false
             })}>
 
         
-        <Tab.Screen name="Main" component={MainTab}/>
+        <Tab.Screen name="Main" component={BenefitTab}/>
         <Tab.Screen name="Benefit" component={BenefitTab} />
         <Tab.Screen name="Pay" component={PayTab} />
         <Tab.Screen name="Stock" component={StockTab} />
